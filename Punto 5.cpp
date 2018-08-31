@@ -13,7 +13,7 @@ int main()
 {
   string phrase;
   
-  cout << "VOCAL AND CONSONANT COUNTER"
+  cout << "VOCAL AND CONSONANT COUNTER";
   cout <<"    ENTER THE PHRASE " << endl;
   getline(cin,phrase);
   cout <<"\n";
