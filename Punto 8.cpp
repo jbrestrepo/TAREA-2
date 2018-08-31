@@ -19,7 +19,7 @@ int main()
     double veli, ang, time, height, range;
 
     cout <<"  MOVIMIENTO DE PROYECTILES" << endl;
-    cout <<"Ingrese La Velocidad Inicial Del Proyectil" << endl;
+    cout <<"Ingrese La Velocidad Inicial Del Proyectil en m/s" << endl;
     cin >> veli;
     cout << "\n";
     cout <<"Ingrese El Angulo De Salida Del Proyectil" << endl;
